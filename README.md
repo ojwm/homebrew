@@ -19,6 +19,6 @@ Homebrew Bundle complete! 8 Brewfile dependencies now installed.
 ### `check`
 
 ```text
-$ brew bundle check
+$ brew bundle check -v
 The Brewfile's dependencies are satisfied.
 ```
