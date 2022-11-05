@@ -4,16 +4,14 @@
 
 ## Bundler
 
-Use a `Brewfile` to manage packages.
+Use the [`Brewfile`](./Brewfile) to manage packages.
 
-### `install`
+### `bundle`
 
-```text
-$ brew bundle
-Using git
-Installing zsh
-...
-Homebrew Bundle complete! 8 Brewfile dependencies now installed.
+Install packages.
+
+```sh
+brew bundle
 ```
 
 ### `check`
